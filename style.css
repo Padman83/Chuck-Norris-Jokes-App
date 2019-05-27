@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch&display=swap');
+html {
+    font-family:'Cabin Sketch', cursive, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color:cornsilk;
+    max-width: 500px;
+    margin: 0 auto;
+}
