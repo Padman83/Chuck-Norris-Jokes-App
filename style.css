@@ -5,7 +5,11 @@ html {
 }
 
 body {
-    background-color:cornsilk;
+    background: rgb(0,35,149);
+    background: -moz-linear-gradient(90deg, rgba(0,35,149,1) 0%, rgba(255,240,183,1) 0%, rgba(243,213,255,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(0,35,149,1) 0%, rgba(255,240,183,1) 0%, rgba(243,213,255,1) 100%);
+    background: linear-gradient(90deg, rgba(0,35,149,1) 0%, rgba(255,240,183,1) 0%, rgba(243,213,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#002395",endColorstr="#f3d5ff",GradientType=1);;
     max-width: 500px;
     margin: 0 auto;
 }
