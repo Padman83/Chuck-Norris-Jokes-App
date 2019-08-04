@@ -1,5 +1,5 @@
 ## About The Project
-Chuck Norris Jokes App
+Chuck Norris Jokes App.
 
 ### Built With
 * [Materialize] (https://materializecss.com)
