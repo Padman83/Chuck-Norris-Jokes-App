@@ -15,4 +15,4 @@ Chuck Norris Jokes App.
 
 ## Contact
 
-Project Link: [https://github.com/Padman83/Chuck-Norris-Jokes-App] (https://github.com/Padman83/Chuck-Norris-Jokes-App)
+Project Link: [https://github.com/Padman83/Chuck-Norris-Jokes-App]
