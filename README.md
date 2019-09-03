@@ -5,7 +5,11 @@ Chuck Norris Jokes App.
 
 ![screencapture-padman83-github-io-Chuck-Norris-Jokes-App-2019-08-06-20_57_54](https://user-images.githubusercontent.com/45048950/62631474-64780980-b963-11e9-95c0-0a0bb3e2c125.png)  
 
+### Code Editor
+* [Visual Studio Code] (https://code.visualstudio.com)
 
+### Design Tool
+* [Adobe XD] (https://www.adobe.com)
 
 ### Built With
 * [Materialize] (https://materializecss.com)
