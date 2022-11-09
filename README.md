@@ -22,6 +22,6 @@
 * [cdnjs] (https://cdnjs.com)
 * [chucknorris] (https://api.chucknorris.io)
 
-## Contact
+## Links
 
 Project Link: [https://github.com/Padman83/Chuck-Norris-Jokes-App]
