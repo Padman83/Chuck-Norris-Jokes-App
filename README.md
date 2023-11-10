@@ -4,7 +4,7 @@
 
 ## 🧰 System Requirements
 
-* Mac , Linux or Windows.
+* Cross Platform.
 
 ### Code Editor
 
